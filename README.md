@@ -1,11 +1,5 @@
-# Wave PvP Cheat Client
+# Wave Roblox Executor
 
-Full cheats for 1.21.1
+Full .NET executor with VelocityAPI
 
-## Features
-- AutoTotem
-- KillAura
-- Reach
-- And more
-
-Build with ./gradlew build
+Build in Visual Studio as admin.
