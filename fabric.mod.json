@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "wave",
+  "version": "1.0.0",
+  "name": "Wave",
+  "description": "PvP Cheat Client 1.21.1 with AutoTotem",
+  "authors": ["Wiiffies"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.waveclient.WaveClient"]
+  },
+  "mixins": ["wave.mixins.json"]
+}
