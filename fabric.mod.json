@@ -3,7 +3,7 @@
   "id": "wave",
   "version": "1.0.0",
   "name": "Wave",
-  "description": "PvP Cheat Client 1.21.1 with AutoTotem",
+  "description": "Full PvP Cheat Client",
   "authors": ["Wiiffies"],
   "license": "MIT",
   "environment": "client",
